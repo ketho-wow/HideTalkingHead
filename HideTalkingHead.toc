@@ -1,0 +1,5 @@
+## Interface: 70000
+## Version: 1.0
+## Title: HideTalkingHead
+
+HideTalkingHead.lua

@@ -1,5 +1,7 @@
 ## Interface: 70100
 ## Version: @project-version@
 ## Title: HideTalkingHead
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TalkingHeadUI
 
 HideTalkingHead.lua

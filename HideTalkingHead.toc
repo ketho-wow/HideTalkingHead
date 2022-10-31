@@ -1,10 +1,8 @@
-## Interface: 90005
+## Interface: 100000
 ## Version: @project-version@
 ## Title: HideTalkingHead
 ## Notes: Hides that message dialog
 ## Author: Ketho @ EU-Boulderfist
-## LoadOnDemand: 1
-## LoadWith: Blizzard_TalkingHeadUI
 ## X-Curse-Project-ID: 101111
 ## X-WoWI-ID: 23914
 

@@ -1,5 +1,6 @@
 -- License: Public Domain
 
-hooksecurefunc("TalkingHeadFrame_PlayCurrent", function()
+hooksecurefunc(TalkingHeadFrame, "PlayCurrent", function()
 	TalkingHeadFrame:Hide()
 end)
+

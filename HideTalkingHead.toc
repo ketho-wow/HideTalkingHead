@@ -5,5 +5,6 @@
 ## Author: Ketho @ EU-Boulderfist
 ## X-Curse-Project-ID: 101111
 ## X-WoWI-ID: 23914
+## X-Wago-ID: xZKxDQKk
 
 HideTalkingHead.lua
